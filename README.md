@@ -18,4 +18,5 @@ In addition to waste classification, the system integrates **air quality sensors
 - TensorFlow / TensorFlow Lite  
 - Python  
 - MQTT  
-- Camera module and air quality sensors  
+- Camera module and air quality sensors
+- Isaac Sim
