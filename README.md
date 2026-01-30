@@ -1,8 +1,10 @@
 ## IoT-Enabled Waste Classification Using TensorFlow on Raspberry Pi
 
 ### Isaac Sim Simulation Demo
-_Click the GIF to watch the full video._
+_Click the GIF to watch the full video._  
+
 Camera-based waste detection and classification in NVIDIA Isaac Sim.
+
 [![Waste Detection Demo](assets/Waste_Detection_Simulation_Isaac_Sim_GitHub.gif)](https://youtu.be/NIhSTSXewJg)
 
 
